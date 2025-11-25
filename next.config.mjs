@@ -14,10 +14,6 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'magesolution.com',
       },
-      {
-        protocol: 'https',
-        hostname: 's3-alpha.figma.com',
-      },
     ],
   },
 };
