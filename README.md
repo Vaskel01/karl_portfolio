@@ -13,7 +13,7 @@ Installation
 Clone the repository using your terminal:
 
 ```
-git clone https://github.com/karl_portfolio
+git clone https://github.com/Vaskel01/karl_portfolio.git
 
 ```
 
